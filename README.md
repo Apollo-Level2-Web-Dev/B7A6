@@ -60,12 +60,12 @@
 ## 📦 What to Submit
 
 ```text
-Project Name    : Courier & Logistics Management Platform
-Backend Repo    : https://github.com/your-username/courier-backend
-Live API        : https://courier-api.vercel.app
-API Docs        : https://documenter.getpostman.com/view/xxx
-Demo Video      : https://drive.google.com/file/d/xxx/view
-Admin Email     : admin@courier.com
+Project Name    : XYZ Platform
+Backend Repo    : https://github.com/your-username/xyz-backend
+Live API        : https://xyz-api.vercel.app
+API Docs        : https://documenter.getpostman.com/view/xyz
+Demo Video      : https://drive.google.com/file/d/xyz/view
+Admin Email     : admin@xyz.com
 Admin Password  : ********
 ```
 > ⚠️ **Never submit personal passwords or production secrets.** Create dedicated demo credentials for evaluation.
