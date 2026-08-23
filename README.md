@@ -107,6 +107,8 @@ Admin Password  : ********
 | **Documentation** | Postman | API testing and interactive documentation |
 | **Deployment** | Vercel (Serverless Functions) / Render | Production backend API deployment |
 
+> **Note:** You do not need to use every technology in every project. Choose technologies based on the actual requirements of your project.
+
 ---
 
 ## 🎯 Key Rules
