@@ -4,6 +4,30 @@
 
 ---
 
+## 🔍 Find Your Assignment 
+
+> Check your Student ID by clicking your **profile image** on the [Programming Hero Website](https://web.programming-hero.com/profile).
+
+| Last Digit of Student ID | Assignment |
+|:------------------------:|------------|
+| **1** | **Courier & Logistics Platform** 🚚 |
+| **2** | **Blood Donation & Emergency Platform** 🩸 |
+| **3** | **Load Shedding & Power Management** ⚡  |
+| **4** | **Developer Assessment Platform** 💻  |
+| **5** | **Emergency Ambulance Dispatch** 🚑 |
+| **6** | **Housing & Roommate Platform** 🏠 |
+| **7** | **Field Service Management** 🔧 |
+| **8** | **Project Management SaaS** 📋 |
+| **9** | **University Management System** 🎓 |
+| **0** | **City Complaint & Service Platform** 🏙️ |
+
+
+> Pick from here [PROJECT_IDEAS](https://github.com/Apollo-Level2-Web-Dev/B7A6/blob/main/PROJECT_IDEAS.md)
+
+> 💡 **Note:** You may customize the selected project or choose a completely unique project outside this list. However, regular e-commerce clones or projects already covered in this course are **not allowed**. The core problem domain, the 3-role requirement, and the overall project complexity must strictly meet our expectations.
+
+---
+
 ## ⚠️ Mandatory Requirements
 
 > [!CAUTION]
