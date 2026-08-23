@@ -4,26 +4,6 @@
 
 These ideas are intentionally broader than simple CRUD applications. Students should treat them as **starting points**, then define their own requirements, database design, APIs, business rules, and additional features.
 
-## 🎯 Suggested Technology Stack
-
-- **Runtime:** Node.js
-- **Language:** TypeScript
-- **Framework:** Express.js
-- **Database:** PostgreSQL
-- **ORM:** Prisma
-- **Validation:** Zod / Joi
-- **Caching & State:** Redis
-- **Authentication:** Custom Auth / Better Auth / Clerk
-- **Social Login:** Google/GCP
-- **Email:** Nodemailer / Resend
-- **File Upload:** Multer
-- **File Storage:** Cloudinary
-- **Payments:** bKash / Stripe / SSLCommerz — where relevant
-- **API Documentation:** Postman Documentation
-- **Deployment:** Vercel / Serverless Functions
-
-> **Note:** You do not need to use every technology in every project. Choose technologies based on the actual requirements of your project.
-
 ## 🧭 How to Use This Hub
 
 For your chosen idea, define:
