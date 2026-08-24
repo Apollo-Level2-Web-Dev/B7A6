@@ -1,8 +1,8 @@
-# 🚀 Project Idea Hub
+## 🚀 Project Idea Hub
 
-> A collection of real-world, backend-heavy project ideas for students who want to build meaningful full-stack applications.
+> A collection of real-world, backend-heavy project ideas for **you** to build meaningful full-stack applications.
 
-These ideas are intentionally broader than simple CRUD applications. Students should treat them as **starting points**, then define their own requirements, database design, APIs, business rules, and additional features.
+**You** should treat them as **starting points**, then define **your** own requirements, database design, APIs, business rules, and additional features.
 
 ## 🧭 How to Use This Hub
 
@@ -735,4 +735,4 @@ The goal is to build a system where the:
 
 all make sense together.
 
-Students are encouraged to make each project their own.
+**You** are encouraged to make each project **your** own.
