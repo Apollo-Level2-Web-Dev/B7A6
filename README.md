@@ -69,20 +69,10 @@
 
 ## 📅 Timeline: 5-Day Work Breakdown
 
-> ⏱️ **Recommendation:** Maintain steady progress throughout all five days instead of completing everything at the last moment.
-
-| Day | Focus | Expected Output |
-|:---:|-------|-----------------|
-| **Day 1** | Planning & Database | Project idea, roles, ERD, Prisma schema, Node/TS setup, Git init, Deployment init |
-| **Day 2** | Authentication & Core APIs | Email/GCP Auth, role middleware, user/profile APIs, main CRUD endpoints |
-| **Day 3** | Business Logic & Validation | Workflows, DB transactions, Zod/Joi validation, centralized error handling, Redis |
-| **Day 4** | Payment, Testing & Docs | bKash/Stripe/SSLCommerz integration, API testing, Postman docs, bug fixing |
-| **Day 5** | Deployment & Presentation | Production deployment, final verification, README update, demo video recording |
-
-
+> ⏱️ **Recommendation:** [see here](https://github.com/Apollo-Level2-Web-Dev/B7A6/blob/main/timeline-breakdown.md)
 ---
 
-## 📅 Timeline
+## 📅 Deadline
 
 | Deadline | Maximum Marks |
 |----------|:-------------:|
