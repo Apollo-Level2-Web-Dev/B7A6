@@ -22,7 +22,7 @@
 | **0** | **City Complaint & Service Platform** 🏙️ |
 
 
-> Pick from here [PROJECT_IDEAS](https://github.com/Apollo-Level2-Web-Dev/B7A6/blob/main/PROJECT_IDEAS.md)
+> Pick from [here](https://github.com/Apollo-Level2-Web-Dev/B7A6/edit/main/idea-hub.md)
 
 > 💡 **Note:** You may customize the selected project or choose a completely unique project outside this list. However, regular e-commerce clones or projects already covered in this course are **not allowed**. The core problem domain, the 3-role requirement, and the overall project complexity must strictly meet our expectations.
 
