@@ -79,6 +79,16 @@
 | **Day 4** | Payment, Testing & Docs | bKash/Stripe/SSLCommerz integration, API testing, Postman docs, bug fixing |
 | **Day 5** | Deployment & Presentation | Production deployment, final verification, README update, demo video recording |
 
+
+---
+
+## 📅 Timeline
+
+| Deadline | Maximum Marks |
+|----------|:-------------:|
+| **September 05, 2026, 11:59 PM** | 60 Marks |
+| SeptemberSep 06, 2026, 11:59 PM** | 50 Marks |
+| **From September 7, 2026 To September 7, 2026, 11:59 PM** | 30 Marks |
 ---
 
 ## 📦 What to Submit
