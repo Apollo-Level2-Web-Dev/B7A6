@@ -1,4 +1,40 @@
 
+# 📋 Project Requirements
+
+
+## 🛠️ Tech Stack
+
+| Category | Technology | Purpose |
+|----------|------------|---------|
+| **Runtime & Framework** | Node.js, TypeScript, Express.js | REST API development with type safety |
+| **Database & ORM** | PostgreSQL + Prisma | Relational database with relation management, indexing, and transactions |
+| **Validation** | Zod / Joi | Strict API-level input validation |
+| **Linting & Formatting** | Biome / ESLint / Prettier / oxlint | Code quality, consistency, and formatting |
+| **Caching & State (Optional)** | Redis | Caching, temporary state, or rate limiting |
+| **Authentication** | Custom / Better Auth / Clerk | Email/Password + Social Login (GCP) |
+| **Email (Optional)** | Nodemailer / Resend | Transactional emails and notifications |
+| **File Storage** | Multer & Cloudinary | Secure file/image upload and storage |
+| **Payments** | bKash / Stripe / SSLCommerz | Real payment processing and status tracking |
+| **Documentation** | Postman | API testing and interactive documentation |
+| **Deployment** | Vercel (Serverless Functions) / Render | Production backend API deployment |
+
+> **Note:** You do not need to use every technology in every project. Choose technologies based on the actual requirements of your project.
+
+---
+
+## 🎯 Key Rules
+
+- **Roles**: Each project must have **3 fixed primary roles** (e.g., Customer, Provider, Admin). Role permissions must be strictly enforced on the backend via middleware.
+- **Payment**: Payment integration is **MANDATORY**. You must integrate **bKash, Stripe, or SSLCommerz**. The system must include endpoints for creating a payment, handling success/cancellation, and tracking payment status securely. *Cash on Delivery or fake manual status updates are NOT accepted.*
+- **No Frontend Required**: This is a backend-focused assignment. Use Postman, Thunder Client, or Swagger to demonstrate your API.
+- **API Response Format**: Use a consistent response structure.
+  - **Success**: `{ "success": true, "message": "Operation successful", "data": {} }`
+  - **Error**: `{ "success": false, "message": "Something went wrong", "errors": [] }`
+- **Performance**: Consider database indexing, pagination, efficient Prisma queries (e.g., `select`), and Redis caching where beneficial.
+- **Security**: Hash passwords securely, never expose secrets, validate all incoming data, protect private routes, and secure payment verification.
+
+--- 
+
 ### ⚙️ Minimum 20 APIs
 
 Each project must implement and document **at least 20 meaningful API endpoints**.
