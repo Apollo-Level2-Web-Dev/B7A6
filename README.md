@@ -85,9 +85,9 @@
 
 | Deadline | Maximum Marks |
 |:---------|:-------------:|
-| **September 05, 2026, 11:59 PM** | 60 Marks |
-| **September 06, 2026, 11:59 PM** | 50 Marks |
-| **September 07, 2026 – September 21, 2026, 11:59 PM** | 30 Marks |
+| **September 07, 2026, 11:59 PM** | 60 Marks |
+| **September 08, 2026, 11:59 PM** | 50 Marks |
+| **September 09, 2026 – September 23, 2026, 11:59 PM** | 30 Marks |
 
 ---
 
